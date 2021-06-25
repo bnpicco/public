@@ -2,9 +2,10 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": "Claudio Piccoli", "address": "Via Castellazzo 36, 10010 Piverone (TO), Italy", "web": "<a href='https://www.claudiopiccoli.com/' target='blank'>www.claudiopiccoli.com</a>" }, "geometry": { "type": "Point", "coordinates": [ 8.010534, 45.445444, 0.0 ] } },
+{ "type": "Feature", "properties": { "id": "Claudio Piccoli", "address": "Via Castellazzo 36, 10010 Piverone (TO), Italy", "web": "<a href='https://claudiopiccoli.com/' target='blank'>claudiopiccoli.com</a>" }, "geometry": { "type": "Point", "coordinates": [ 8.010534, 45.445444, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "DogsBehindTheLens", "address": "Via Castellazzo 36, 10010 Piverone (TO), Italy", "web": "<a href='https://www.dogsbehindthelens.com/' target='blank'>www.dogsbehindthelens.com</a>" }, "geometry": { "type": "Point", "coordinates": [ 8.010814, 45.445338, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "FletchJr Photography - John “Fletch” Fletcher", "address": "2840 Vinings Central Dr SE Atlanta, GA 30339 USA", "web": "<a href='https://www.fletchjrphotography.com/' target='blank'>www.fletchjrphotography.com</a>" }, "geometry": { "type": "Point", "coordinates": [ -84.4759112796919 ,33.84113167465456, 0.0 ] } },
-{ "type": "Feature", "properties": { "id": "Pawshoot", "address": "Schoolstraat 94, 2590 Berlar Belgium", "web": "<a href='https://www.pawshoot.be' target='blank'>www.pawshoot.be</a>" }, "geometry": { "type": "Point", "coordinates": [ 4.660534276239754, 51.11411472667575, 0.0 ] } }
+{ "type": "Feature", "properties": { "id": "Pawshoot", "address": "Schoolstraat 94, 2590 Berlar Belgium", "web": "<a href='https://pawshoot.be' target='blank'>pawshoot.be</a>" }, "geometry": { "type": "Point", "coordinates": [ 4.660534276239754, 51.11411472667575, 0.0 ] } },
+{ "type": "Feature", "properties": { "id": "Mike Kremer", "address": "23, Rue Tony Neuman L-2241 Luxemburg", "web": "<a href='https://mikekremer.lu/' target='blank'>mikekremer.lu/</a>" }, "geometry": { "type": "Point", "coordinates": [ 4.660534276239754, 51.11411472667575, 0.0 ] } }
 ]
 }
