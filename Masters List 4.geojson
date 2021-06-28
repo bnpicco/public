@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Têtes Penchées  - Pet Photography", "address": "Limoges 87000, France", "web": "<a href='http://www.tetespenchees.fr/' target='blank'>www.tetespenchees.fr</a>" }, "geometry": { "type": "Point", "coordinates": [ 1.2593303650537504, 45.83849289770503, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Alejandra Antoniazzi", "address": "Via Maragliano, 50144 Firenze", "web": "<a href='https://www.alejandraantoniazzi.com/' target='blank'>alejandraantoniazzi.com</a>" }, "geometry": { "type": "Point", "coordinates": [ 11.234910279774189, 43.786815118938854, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Gehring Nastassja", "address": "Via al mai 18, 6528 Camorino, Svizzera", "web": "<a href='https://www.nastassjaphotography.com/' target='blank'>www.nastassjaphotography.com</a>" }, "geometry": { "type": "Point", "coordinates": [ 9.007253151811739, 46.16767075987723, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Our Treasure Photography", "address": "Lijsterstraat 7, 2500 Lier  Belgium", "web": "<a href='https://www.ourtreasure-photography.be/' target='blank'>www.ourtreasure-photography.be</a>" }, "geometry": { "type": "Point", "coordinates": [ 4.597564033359287, 51.105817374443426, 0.0 ] } },
