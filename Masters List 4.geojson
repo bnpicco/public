@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Umberto Facchini", "address": "Via Gibellina,68 00132 Roma", "web": "<a href='https://www.umbertofacchini.com/' target='blank'>www.umbertofacchini.com</a>" }, "geometry": { "type": "Point", "coordinates": [ 12.679229647542353, 41.86399142391284, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Annelies Huylebroeck", "address": "Kwalenhoekstraat 50, 9320 Nieuwerkerken (Aalst) Belgium", "web": "<a href='http://www.storiesfromtheheartphotography.be/' target='blank'>www.storiesfromtheheartphotography.be</a>" }, "geometry": { "type": "Point", "coordinates": [ 3.983479934947106, 50.91959281255266, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Jana Sebestova Photography", "address": "Via Cesare Battisti 17, 10123 Torino", "web": "<a href='https://www.janasebestovaphotography.com/amici-4-zampe/' target='blank'>www.janasebestovaphotography.com/amici-4-zampe</a>" }, "geometry": { "type": "Point", "coordinates": [ 7.68721443197641, 45.069036774277286, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Alessandro Grandoni", "address": "Via Olginate, 77 00188 Roma", "web": "<a href='https://www.alessandrograndoni.it/' target='blank'>www.alessandrograndoni.it</a>" }, "geometry": { "type": "Point", "coordinates": [ 12.463692574005167, 42.02256878699294, 0.0 ] } },
