@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Island Paws Photography", "address": "1131 Perrys Corner Rd, Grasonville, MD 21638 - USA", "web": "<a href='https://www.islandpawsphotography.com/' target='blank'>www.islandpawsphotography.com</a>" }, "geometry": { "type": "Point", "coordinates": [ -76.19576045433807, 38.93691131202096, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Greta Modula Photography", "address": "Località Ossario, n.18 - 34170 Gorizia", "web": "<a href='https://www.gretamodula.com/' target='blank'>www.gretamodula.com</a>" }, "geometry": { "type": "Point", "coordinates": [ 13.61631490701272, 45.96809051689923, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Angela Modena Dogs Photography", "address": "38051 Borgo Valsugana (TN) c.so Ausugum 108", "web": "<a href=' ' target='blank'> </a>" }, "geometry": { "type": "Point", "coordinates": [ 11.460639465411104, 46.055559906887986, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Laura Petermans Photography", "address": "Chemin du Pont d’Ancre, 52 7860 Lessines, Belgium", "web": "<a href='http://laurapetermans.be/' target='blank'>laurapetermans.be</a>" }, "geometry": { "type": "Point", "coordinates": [ 3.8282551758869228, 50.71785434161329, 0.0 ] } },
