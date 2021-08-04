@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Federico Sorgiovanni Photography", "address": "Via Seeten, 41012 Carpi (MO)", "web": "<a href='https://www.federicosorgiovanni.com' target='blank'>federicosorgiovanni.com</a>" }, "geometry": { "type": "Point", "coordinates": [ 10.898415548935983, 44.7961760915748, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Camille Chevalier", "address": "999a Chemin de la Renardière, 83910 Pourrières, France", "web": "<a href='https://www.camillechevalier.fr' target='blank'>www.camillechevalier.fr</a>" }, "geometry": { "type": "Point", "coordinates": [ 5.7479197756537515, 43.51057245829567, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Jenni Maxe", "address": "Frykmansväg 24, 65346 Karlstad, Sweden", "web": "<a href=' ' target='blank'> </a>" }, "geometry": { "type": "Point", "coordinates": [ 13.424560848387545, 59.37316778035796, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Mariella Scionti", "address": "Viale della Repubblica 29, 40127 Bologna (BO)", "web": "<a href='https://www.mariellascionti.com' target='blank'>www.mariellascionti.com</a>" }, "geometry": { "type": "Point", "coordinates": [ 11.361393233382422, 44.50612896038186, 0.0 ] } },
