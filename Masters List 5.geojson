@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Karin Goldbeck-Krügener", "address": "Ochsenbergweg 7, 94227 Zwiesel, Germania", "web": "<a href='https://karin-goldbeck.de/' target='karin-goldbeck.de'</a>" }, "geometry": { "type": "Point", "coordinates": [ 13.196738789106831, 49.03525091689738, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Giorgio Baruffi", "address": "Via Francesco Maternini 113, 25133 Brescia", "web": "<a href='http://dogclick.it' target='dogclick.it'</a>" }, "geometry": { "type": "Point", "coordinates": [ 10.252477177599046, 45.568689084878734, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Sonia Campanelli studio fotografico", "address": "Viale trentacinquesima Brigata 34, 44123 Pontelagoscuro Ferrara", "web": "<a href='https://www.soniacampanelli.com' target='blank'>www.soniacampanelli.com'</a>" }, "geometry": { "type": "Point", "coordinates": [ 11.606463008032533, 44.87461434820269, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Fabio Girotti", "address": "Via Don Sturzo 2, 60022 Castelfidardo (AN)", "web": "<a href='https://www.fabiogirotti.it' target='blank'>www.fabiogirotti.it'</a>" }, "geometry": { "type": "Point", "coordinates": [ 13.57344030468404, 43.470200404568054, 0.0 ] } },
