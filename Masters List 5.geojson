@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Daiana Barbera", "address": "Vicolo Fratelli Gallesi, 21, 27020 Parona PV, Italia", "web": "<a href='https://daianab-photos.jimdosite.com/' target='blank'>daianab-photos.jimdosite.com/'</a>" }, "geometry": { "type": "Point", "coordinates": [ 8.749602263754936, 45.279669143240255, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Martina Stanchi Photography", "address": "Via Alessandria, 28, Pietra Marazzi, AL, Italy", "web": "<a href='http://www.martinastanchi.com/' target='blank'>www.martinastanchi.com/'</a>" }, "geometry": { "type": "Point", "coordinates": [ 8.660210523659646, 44.93676561271976, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "ScattopazzoDog (Giacomo Augugliaro)", "address": "Via isella 9 , civate (lecco ) 23862, Italy", "web": "<a href='http://www.scattopazzo.it/' target='blank'>scattopazzo.it/'</a>" }, "geometry": { "type": "Point", "coordinates": [ 9.343834336414163, 45.82245273127717, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Alessia Guglielmi", "address": "Via Alfonso Salvalai 19, 37012 Bussolengo VR,Italy", "web": "<a href='https://briochepetphotography.wordpress.com/' target='blank'>briochepetphotography.wordpress.com'</a>" }, "geometry": { "type": "Point", "coordinates": [ 10.84823446288899, 45.46715172045498, 0.0 ] } },
