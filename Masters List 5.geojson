@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Kim Mayes", "address": "3540 Jupiter Blvd SE, Suite 4, Palm Bay, Florida 32909, USA", "web": "<a href='https://rockindawgs.com/' target='blank'>rockindawgs.com'</a>" }, "geometry": { "type": "Point", "coordinates": [ -80.64958736743473, 27.98714413368357, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Emke Frerichs", "address": "Orsières, Switzerland", "web": "<a href='emke.frerichs@gmail.com' target='blank'>emke.frerichs@gmail.com'</a>" }, "geometry": { "type": "Point", "coordinates": [ 7.143050390614443, 46.0299002834176, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Ajda Okorn", "address": "Lobček 2a, 1290 Grosuplje, Slovenia", "web": "<a href='https://www.ajdaokorn.com/' target='blank'>www.ajdaokorn.com'</a>" }, "geometry": { "type": "Point", "coordinates": [ 14.684016733154264, 45.935173843984465, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Daiana Barbera", "address": "Vicolo Fratelli Gallesi, 21, 27020 Parona PV, Italia", "web": "<a href='https://daianab-photos.jimdosite.com/' target='blank'>daianab-photos.jimdosite.com/'</a>" }, "geometry": { "type": "Point", "coordinates": [ 8.749602263754936, 45.279669143240255, 0.0 ] } },
