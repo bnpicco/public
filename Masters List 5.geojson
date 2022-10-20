@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Studio D Portrait Design, LLC", "address": "191 Bryant St S, Vale, OR 97918, United States", "web": "<a href='https://studiodportraitdesign.com/' target='blank'>studiodportraitdesign.com</a>" }, "geometry": { "type": "Point", "coordinates": [ -117.24237181343014, 43.98149910179027, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Janina Eberle", "address": "Simonsbreite 8Ehingen, Germany, 89584", "web": "<a href='https://janina-eberle-tierfotografie.de/' target='blank'>janina-eberle-tierfotografie.de</a>" }, "geometry": { "type": "Point", "coordinates": [ 9.632227622876924, 48.275016774369185, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Lison Plante", "address": "8548, rue LebrunMirabel, Québec, J7N 1Y5", "web": "<a href='https://www.lisonplantephotographe.ca/' target='blank'>www.lisonplantephotographe.ca</a>" }, "geometry": { "type": "Point", "coordinates": [ -73.99314791031028, 45.63260120144091, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Stephanie Vanspeybroeck", "address": "Brugstraat 19Lievegem, Oost-Vlaanderen, 9921", "web": "<a href='' target='blank'>stephanievs@live.be'</a>" }, "geometry": { "type": "Point", "coordinates": [ 11.712985097595059, 44.80579507954297, 0.0 ] } },
