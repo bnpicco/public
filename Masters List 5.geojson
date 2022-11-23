@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": "Lisa baesso c\o Click & Dreen", "address": "Via dei Belludi 17a - Piazzola Sul Brenta (PD), Italy", "web": "<a href='https://www.lisabaesso.com/' target='blank'>www.lisabaesso.com//</a>" }, "geometry": { "type": "Point", "coordinates": [ 11.78393932887088, 45.539152370045194, 0.0 ] } },
+{ "type": "Feature", "properties": { "id": "Lisa baesso Click & Dreen", "address": "Via dei Belludi 17a - Piazzola Sul Brenta (PD), Italy", "web": "<a href='https://www.lisabaesso.com/' target='blank'>www.lisabaesso.com/</a>" }, "geometry": { "type": "Point", "coordinates": [ 11.78393932887088, 45.539152370045194, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Christin Scholz", "address": "Hermannswerder Haus 8cPotsdam, 14473, Germany", "web": "<a href='https://christinscholz.de/' target='blank'>christinscholz.de/</a>" }, "geometry": { "type": "Point", "coordinates": [ 13.032945930062265, 52.384179741939604, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Sarah Behn", "address": "Dörpstraat 28, 25597 Westermoor, Germany", "web": "<a href='' target='blank'>ricosarah@msn.com'</a>" }, "geometry": { "type": "Point", "coordinates": [ 9.620758444329322, 53.913003809643854, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Studio D Portrait Design, LLC", "address": "191 Bryant St S, Vale, OR 97918, United States", "web": "<a href='https://studiodportraitdesign.com/' target='blank'>studiodportraitdesign.com</a>" }, "geometry": { "type": "Point", "coordinates": [ -117.24237181343014, 43.98149910179027, 0.0 ] } },
