@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Sylvie Lettal", "address": "Rosboesch 22 Wecker, Luxembourg, 6870", "web": "<a href='' target='blank'>sylvielettal@gmail.com</a>" }, "geometry": { "type": "Point", "coordinates": [ 6.381098561549897, 49.69289626707224, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Jenny Johansson", "address": "Solbrinken 4Hoejbjerg, Danmark, 8270", "web": "<a href='' target='blank'>vengasalsa@gmail.com</a>" }, "geometry": { "type": "Point", "coordinates": [ 10.209073605232051, 56.11536713920403, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Julia Haßelkuß", "address": "Römerstraße 169Wegberg, Germany, 41844", "web": "<a href='' target='blank'>julia.friehoff@web.de</a>" }, "geometry": { "type": "Point", "coordinates": [ 6.242385504481614, 51.13403191089766, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Lisa baesso Click & Dreen", "address": "Via dei Belludi 17a - Piazzola Sul Brenta (PD), Italy", "web": "<a href='https://www.lisabaesso.com/' target='blank'>www.lisabaesso.com/</a>" }, "geometry": { "type": "Point", "coordinates": [ 11.78393932887088, 45.539152370045194, 0.0 ] } },
