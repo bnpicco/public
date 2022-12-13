@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Mandy Köhler", "address": "Bockstr. 14Nordhausen Steigerthal, 99734", "web": "<a href='https://www.255grad.de/' target='blank'>www.255grad.de</a>" }, "geometry": { "type": "Point", "coordinates": [ 10.8744248693955, 51.520041184324356, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Melissa Pohl", "address": "R6 Mossel AvenueGeorge, Western Cape, 6529", "web": "<a href='https://www.melissapohlphotography.com/' target='blank'>www.melissapohlphotography.com/</a>" }, "geometry": { "type": "Point", "coordinates": [ 22.48578860935229, -33.960912241414654, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Sylvie Lettal", "address": "Rosboesch 22 Wecker, Luxembourg, 6870", "web": "<a href='' target='blank'>sylvielettal@gmail.com</a>" }, "geometry": { "type": "Point", "coordinates": [ 6.381098561549897, 49.69289626707224, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Jenny Johansson", "address": "Solbrinken 4Hoejbjerg, Danmark, 8270", "web": "<a href='' target='blank'>vengasalsa@gmail.com</a>" }, "geometry": { "type": "Point", "coordinates": [ 10.209073605232051, 56.11536713920403, 0.0 ] } },
