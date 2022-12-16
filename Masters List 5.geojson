@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Maren Pieper", "address": "Zum Schulwald 3Hambühren, Germany, 29313", "web": "<a href='' target='blank'>mpieper18@gmx.de</a>" }, "geometry": { "type": "Point", "coordinates": [  9.977639898714578 , 52.63104759922554, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Jacqueline Rüdiger", "address": "Jaegerstraße 3Sangerhausen, Saxony-Anhalt, 06526", "web": "<a href='https://foxesonfire.de' target='blank'>jacqueline@foxesonfire.de</a>" }, "geometry": { "type": "Point", "coordinates": [   11.287604169846235, 51.47574586996346, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Marc Vandijck", "address": "Dekkersstraat 9Bree, Limburg, 3960", "web": "<a href='https://www.mavafotografie.be' target='blank'>marc@mavafotografie.be</a>" }, "geometry": { "type": "Point", "coordinates": [  5.6040015986731015, 51.153932780370816, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Mettauer Mirjam", "address": "Geissfluhweg 5Aarau, Aargau, 5000", "web": "<a href='' target='blank'>mirjam.mettauer@bluewin.ch</a>" }, "geometry": { "type": "Point", "coordinates": [ 8.052055713914509, 47.381136296755386, 0.0 ] } },
