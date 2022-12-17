@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": "Patricia Mulder", "Horstebaan 209Schoten, Antwerpen/Belgium, 2900", "web": "<a href='https://www.patriciamulderphotography.com' target='blank'>phmulder@me.com</a>" }, "geometry": { "type": "Point", "coordinates": [  4.471827578258055, 51.26076687497847 ] } },
+{ "type": "Feature", "properties": { "id": "Patricia Mulder", "Horstebaan 209Schoten, Antwerpen/Belgium, 2900", "web": "<a href='https://www.patriciamulderphotography.com' target='blank'>phmulder@me.com</a>" }, "geometry": { "type": "Point", "coordinates": [ 4.471827578258055, 51.26076687497847 ] } },
 { "type": "Feature", "properties": { "id": "Rudy Anthoine", "address": "17 Rue des HélianthesGap, 05000", "web": "<a href='https://canistudio.fr' target='blank'>contact@canistudio.fr</a>" }, "geometry": { "type": "Point", "coordinates": [  6.095335440945726 , 44.57887069717884 ] } },
 { "type": "Feature", "properties": { "id": "Deborah Stevenson", "address": "2418 Avon Place, Unit 125Port Coquitlam, BC, V3B0C7", "web": "<a href='https://www.cedarandbarkphotography.com' target='blank'>deborah@cedarandbarkphotography.com</a>" }, "geometry": { "type": "Point", "coordinates": [  -122.73702447242306 , 49.25917863504339, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "Marc Vandijck", "address": "Dekkersstraat 9Bree, Limburg, 3960", "web": "<a href='https://www.mavafotografie.be' target='blank'>marc@mavafotografie.be</a>" }, "geometry": { "type": "Point", "coordinates": [  5.6040015986731015, 51.153932780370816, 0.0 ] } },
