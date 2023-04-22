@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Martina Eckardt Photographie", "address": "Humperdinckstraße 16, Bad Kreuznach, Germany", "web": "<a href='https://www.martinaeckardt.com/' target='blank'>martinaeckardt.com</a>" }, "geometry": { "type": "Point", "coordinates": [7.8895330365609615, 49.83464668447409, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Lara Fürst", "address": "Stubenberggasse 2, 8605 Kapfenberg, Austria", "web": "<a href='' target='blank'>lara.fuerst@outlook.com</a>" }, "geometry": { "type": "Point", "coordinates": [15.281974618940442, 47.43799540995365, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Marie Van Belleghem", "address": "Rue Maubille 16, 1401, Baulers Belgique", "web": "<a href='' target='blank'>marie.vanbelleghem@gmail.com</a>" }, "geometry": { "type": "Point", "coordinates": [4.348633730750521, 50.605535554271746, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Claire Blanchot", "address": "17 rue victor ducla Pau, France, 64000", "web": "<a href='https://studio-ciarel.fr/' target='blank'>studio-ciarel.fr</a>" }, "geometry": { "type": "Point", "coordinates": [-0.3762816665683343, 43.32514731618849, 0.0   ] } },
