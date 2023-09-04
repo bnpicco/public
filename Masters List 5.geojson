@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Francesco Sale", "address": "Via Giuseppe Cesare Abba, 11 Rimini, Italy", "web": "<a href='https://francescosale.com/' target='blank'>francescosale.com</a>" }, "geometry": { "type": "Point", "coordinates": [12.590596799998846, 44.043031425368014, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Martina Eckardt Photographie", "address": "Humperdinckstraße 16, Bad Kreuznach, Germany", "web": "<a href='https://www.martinaeckardt.com/' target='blank'>martinaeckardt.com</a>" }, "geometry": { "type": "Point", "coordinates": [7.8895330365609615, 49.83464668447409, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Lara Fürst", "address": "Stubenberggasse 2, 8605 Kapfenberg, Austria", "web": "<a href='' target='blank'>lara.fuerst@outlook.com</a>" }, "geometry": { "type": "Point", "coordinates": [15.281974618940442, 47.43799540995365, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Marie Van Belleghem", "address": "Rue Maubille 16, 1401, Baulers Belgique", "web": "<a href='' target='blank'>marie.vanbelleghem@gmail.com</a>" }, "geometry": { "type": "Point", "coordinates": [4.348633730750521, 50.605535554271746, 0.0   ] } },
