@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Michael Prager", "address": "Gartengasse 20, 2402 Haslau an der Donau, Austria", "web": "<a href='https://www.instagram.com/michael.prager.photography/' target='blank'>www.instagram.com/michael.prager.photography</a>" }, "geometry": { "type": "Point", "coordinates": [16.711068924512414, 48.11754387048075, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Anne Bertling", "address": "Dorfheide 41, Ascheberg 59387, NRW, Germany", "web": "<a href='https://annebertling-fotografie.de/' target='blank'>annebertling-fotografie.de</a>" }, "geometry": { "type": "Point", "coordinates": [7.626100632977466, 51.79503129256926, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Adam Hulin", "address": "9974 W Rosecroft Ct Unit 102, Boise, ID 83704, United States", "web": "<a href='' target='blank'>actionatommedia@gmail.com</a>" }, "geometry": { "type": "Point", "coordinates": [-116.30625635419196, 43.61860324832213, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Saskia Hartmann", "address": "Preußisch-Eylau Straße 18, Verden (Aller) 27283, Germany", "web": "<a href='https://www.sissygraphics.de/' target='blank'>www.sissygraphics.de</a>" }, "geometry": { "type": "Point", "coordinates": [9.262236706473514, 52.92640416469276, 0.0   ] } },
