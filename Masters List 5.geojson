@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Glenn Slabbinck", "address": "Wulgenbroekstraat 6 8200 Sint Michiels Brugge Belgium", "web": "<a href='http://www.glennslabbinck.com/' target='blank'>www.glennslabbinck.com</a>" }, "geometry": { "type": "Point", "coordinates": [3.228441533340575, 51.17643604250578, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Andrea Sereni Photography", "address": "Via la fonte 22a - Castel San Niccolò (AR) - 52018", "web": "<a href='https://www.andreasereni.com/' target='blank'>andreasereni.com</a>" }, "geometry": { "type": "Point", "coordinates": [11.692633720464679, 43.73639497177773, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Elisa Garcia", "address": "114 Av. de Tournaisis, 78990 Élancourt, Francia", "web": "<a href='' target='blank'>elisadanae3@gmail.com</a>" }, "geometry": { "type": "Point", "coordinates": [1.9524250958808271, 48.76579107076323, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Danilo Piumatti", "address": "Via Palestrina 2, 12042 Bra (CN), Italia", "web": "<a href='' target='blank'>danilo.piumatti@gmail.com</a>" }, "geometry": { "type": "Point", "coordinates": [7.84521996166143, 44.70659459784324, 0.0   ] } },
