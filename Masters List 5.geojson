@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Alessia Rossi Dog Photo", "address": "Via C. Colombo, 23 35030 Selvazzano Dentro (PD) Italia", "web": "<a href='' target='blank'>alessiarossi.dogphoto@gmail.com</a>" }, "geometry": { "type": "Point", "coordinates": [11.794549403521764, 45.385402678396, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Alessia Demma Pet Photographer", "address": "Roma,Italy", "web": "<a href='https://www.adphotoroma.it/' target='blank'>www.adphotoroma.it</a>" }, "geometry": { "type": "Point", "coordinates": [12.486520927403193, 41.89303215953479, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Glenn Slabbinck", "address": "Wulgenbroekstraat 6 8200 Sint Michiels Brugge Belgium", "web": "<a href='http://www.glennslabbinck.com/' target='blank'>www.glennslabbinck.com</a>" }, "geometry": { "type": "Point", "coordinates": [3.228441533340575, 51.17643604250578, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Andrea Sereni Photography", "address": "Via la fonte 22a - Castel San Niccolò (AR) - 52018", "web": "<a href='https://www.andreasereni.com/' target='blank'>andreasereni.com</a>" }, "geometry": { "type": "Point", "coordinates": [11.692633720464679, 43.73639497177773, 0.0   ] } },
