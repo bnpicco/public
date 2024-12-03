@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Raffaele Romano", "address": "Via Jacopo Sannazzaro 40, Roma", "web": "<a href='www.squilibratia4zampe.com' target='blank'>www.squilibratia4zampe.com</a>" }, "geometry": { "type": "Point", "coordinates": [12.54123383525681, 41.93940015614501, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Jessica Mozzetti", "address": "Ticino, Svizzera", "web": "<a href='www.jessyart.ch' target='blank'>www.jessyart.ch</a>" }, "geometry": { "type": "Point", "coordinates": [8.784354903481374, 46.165302012950065, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Code & Ritratti Alessandro Magarò", "address": "Via Santa Costanza 7, 00053 Civitavecchia, Italia", "web": "<a href='www.codeeritratti.com' target='blank'>www.codeeritratti.com</a>" }, "geometry": { "type": "Point", "coordinates": [11.801162763473306, 42.10178101241499, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Marina Mostardini", "address": "Via Zappello, 1A, 24030 Villa d'Adda BG, Italia", "web": "<a href='' target='blank'>marina.mostardini@gmail.com</a>" }, "geometry": { "type": "Point", "coordinates": [9.456960634311656, 45.715430791042365, 0.0   ] } },
