@@ -2,6 +2,8 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Tracey McIntosh Photography", "address": "20785 Bluffs Highway, Onaway, MI, 49765", "web": "<a href='https://www.traceymcintoshphotography.com/' target='blank'>traceymcintoshphotography.com</a>" }, "geometry": { "type": "Point", "coordinates": [-84.22731281166504, 45.46558980787986, 0.0   ] } },
+{ "type": "Feature", "properties": { "id": "Jeannie Gane Photography", "address": "Cobourg, Ontario, Canada, K9A 0A4", "web": "<a href='http://www.jeanniegane.ca/' target='blank'>jeanniegane.ca</a>" }, "geometry": { "type": "Point", "coordinates": [-78.14562091654753, 43.96158633057674, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Bori Kovács", "address": "Debrecen, Hungary", "web": "<a href='https://kovacsbori.hu/' target='blank'>kovacsbori.hu</a>" }, "geometry": { "type": "Point", "coordinates": [21.62792070096738, 47.527473072805435, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Raffaele Romano", "address": "Via Jacopo Sannazzaro 40, Roma", "web": "<a href='https://www.squilibratia4zampe.com/' target='blank'>www.squilibratia4zampe.com</a>" }, "geometry": { "type": "Point", "coordinates": [12.54123383525681, 41.93940015614501, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Jessica Mozzetti", "address": "Ticino, Svizzera", "web": "<a href='www.jessyart.ch' target='blank'>www.jessyart.ch</a>" }, "geometry": { "type": "Point", "coordinates": [8.784354903481374, 46.165302012950065, 0.0   ] } },
