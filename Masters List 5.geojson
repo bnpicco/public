@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Lucie Nermutova", "address": "Karla Starého 150, Podebrady, Czech Republic", "web": "<a href='https://www.luner.photography/' target='blank'>www.luner.photography</a>" }, "geometry": { "type": "Point", "coordinates": [15.132058968936432, 50.142498577655, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Iris Evans Photography", "address": "19633 Harvard Place Bend Oregon, 97702 United States", "web": "<a href='https://irisevansphotography.mypixieset.com/home' target='blank'>irisevansphotography</a>" }, "geometry": { "type": "Point", "coordinates": [-121.34199402227044, 44.02082014236766, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Dog Photographer of Tampa Bay", "address": "1373 Bramblewood Dr, Lakeland Florida 33811", "web": "<a href='https://www.dogphotographeroftb.com/' target='blank'>dogphotographeroftb.com</a>" }, "geometry": { "type": "Point", "coordinates": [-81.98211442523777, 27.979835347048336, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "FUZZY BUTT PET PHOTOS by Jess Kristen", "address": "2504 SE 377th Ave, Washougal, WA 98671", "web": "<a href='https://www.fuzzybuttpetphotos.com/' target='blank'>fuzzybuttpetphotos.com</a>" }, "geometry": { "type": "Point", "coordinates": [-122.28609293827581, 45.603741899869796, 0.0   ] } },
