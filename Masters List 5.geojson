@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Agnese Felloni", "address": "Ferrara, Italia", "web": "<a href='https://www.instagram.com/agnesefelloni_photo/' target='blank'>agnesefelloni</a>" }, "geometry": { "type": "Point", "coordinates": [11.61262837410294, 44.83938722325361, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Antonio Cisari", "address": "via San Giovanni 1, 20080 Albairate (MI), Italia", "web": "<a href='https://antoniocisari.it/' target='blank'>antoniocisari.it</a>" }, "geometry": { "type": "Point", "coordinates": [8.939356289839933, 45.421356060923905, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Iris Iacoviello", "address": "Milano, Italia", "web": "<a href='https://www.instagram.com/iris.pet.photography/' target='blank'>iris.pet.photography</a>" }, "geometry": { "type": "Point", "coordinates": [9.17673314070794, 45.47432352743077, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Valerio Benevelli", "address": "via Broccata 4/1 Guastalla (Reggio Emilia), Italia", "web": "<a href='https://www.instagram.com/vanlifewithwolves/' target='blank'>ValerioBenevelli</a>" }, "geometry": { "type": "Point", "coordinates": [10.686683393406382, 44.92999485162903, 0.0   ] } },
