@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": "Breen Photo - Pet Photography", "address": "27 Seals Dr Monroe, New York 10950", "web": "<a href='' target='blank'>dave@breenphoto.com</a>" }, "geometry": { "type": "Point", "coordinates": [-74.17748761565599, 41.308969913462235, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Davide Lorenzini", "address": "Livorno Ferraris, Italia", "web": "<a href='https://www.instagram.com/davide_lorenzini.ph/' target='blank'>DavideLorenzini</a>" }, "geometry": { "type": "Point", "coordinates": [8.078782421466508, 45.281435150135394, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Agnese Felloni", "address": "Ferrara, Italia", "web": "<a href='https://www.instagram.com/agnesefelloni_photo/' target='blank'>agnesefelloni</a>" }, "geometry": { "type": "Point", "coordinates": [11.61262837410294, 44.83938722325361, 0.0   ] } },
 { "type": "Feature", "properties": { "id": "Antonio Cisari", "address": "via San Giovanni 1, 20080 Albairate (MI), Italia", "web": "<a href='https://antoniocisari.it/' target='blank'>antoniocisari.it</a>" }, "geometry": { "type": "Point", "coordinates": [8.939356289839933, 45.421356060923905, 0.0   ] } },
